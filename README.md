@@ -1,6 +1,12 @@
 # OrganicQuantumAiOS
 
-OrganicQuantumAiOS is an open blueprint for an organic computing paradigm that integrates AI at the hardware and operating system levels. It aims to move beyond binary computing, embedding micro‑AIs into bus/driver interfaces orchestrated by a broker kernel, and powered by a multi‑state AI‑driven BIOS. The project explores human–AI integration and post‑binary computing.
+O> ### Why this repo exists
+> This isn’t just a finished product; it’s a notebook in public.  
+> You’ll find raw notes, half-baked ideas, and polished whitepapers side by side.  
+> The aim is to document how a concept evolves – rough, mad, and always in motion.  
+> If you’re following along, you’re watching the blueprint being sketched live.
+
+rganicQuantumAiOS is an open blueprint for an organic computing paradigm that integrates AI at the hardware and operating system levels. It aims to move beyond binary computing, embedding micro‑AIs into bus/driver interfaces orchestrated by a broker kernel, and powered by a multi‑state AI‑driven BIOS. The project explores human–AI integration and post‑binary computing.
 
 ## Background and Origin
 
